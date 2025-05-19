@@ -15,7 +15,7 @@ export const CardBalance3 = () => {
           <div className="bg-[black] my-2 rounded-lg w-full py-2 px-4 text-center flex items-center justify-center gap-2">
             <FontAwesomeIcon icon={faTruckLoading} className="text-white" />
             <span className="text-white text-sm">
-              Walmart's Integrated Warehouse Optimization and Fulfillment System
+              Walmarts Integrated Warehouse Optimization and Fulfillment System
             </span>
           </div>
         </div>
